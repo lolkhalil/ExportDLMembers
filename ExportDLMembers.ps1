@@ -1,4 +1,4 @@
-# Export DL Groups - Script by Khalil
+# Export DL Groups - Script by Khalil - 13/06/24
 # Exporting a list of Members within Nested DL's
 
 function WriteR($Message) { Write-Host -ForegroundColor Red $Message }
